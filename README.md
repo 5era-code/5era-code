@@ -1,4 +1,4 @@
-# 5ERAcode
+# 5ERAcod
 
 
 ## Tentang Kami
