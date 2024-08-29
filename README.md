@@ -22,9 +22,9 @@ Kami menggunakan teknologi terbaru dan terbaik untuk memastikan setiap solusi ya
 
 ## Statistik GitHub Kami
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5sera-Code&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5era-Code&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5sera-Code&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5era-Code&layout=compact&theme=radical)
 
 ## Hubungi Kami
 
